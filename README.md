@@ -1,2 +1,3 @@
 # SVM-on-Flower-dataset
-Support Vector Machine
+*This project is a support vector machine project that separates the iris plant into subspecies according to its petal and sepal characteristics.*
+
